@@ -11,3 +11,4 @@ dependencies:
     - pandas
     - matplotlib
     - sklearn
+    - tensorflow
